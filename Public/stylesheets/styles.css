@@ -504,12 +504,12 @@
 }
 
 
-.foto {
+.M-foto {
   margin: auto;
 }
 
 
-.TextoMiAcompañante {
+.M-TextoMiAcompañante {
   font-size: small;
   margin: auto;
 }
@@ -528,14 +528,14 @@
 }
 
 
-.CajasAcompañante {
+.M-CajasAcompañante {
   display: flex;
   justify-content: center;
   padding: 20px;
 }
 
 
-.Cajita1 {
+.M-Cajita1 {
   background-color: #f6eef9;
   margin: 15px;
   padding: 15px;
@@ -545,7 +545,7 @@
 }
 
 
-.Cajita2 {
+.M-Cajita2 {
   background-color: #f6eef9;
   margin: 15px;
   padding: 15px;
@@ -555,7 +555,7 @@
 }
 
 
-.Cajita3 {
+.M-Cajita3 {
   background-color: #f6eef9;
   margin: 15px;
   padding: 15px;
@@ -565,7 +565,7 @@
 }
 
 
-.BotonesCajita {
+.M-BotonesCajita {
   background-color: #b695c0;
   color: white;
   font-size: small;
@@ -574,13 +574,13 @@
 }
 
 
-.BotonesA {
+.M-BotonesA {
   display: flex;
   justify-content: center;
 }
 
 
-.BotonesCajita {
+.M-BotonesCajita {
   font-size: small;
   background: #b695c0;
   width: 100px;
@@ -596,9 +596,9 @@
 }
 
 
-.BotonesCajita:hover,
-.BotonesCajita:focus,
-.BotonesCajita:active {
+.M-BotonesCajita:hover,
+.M-BotonesCajita:focus,
+.M-BotonesCajita:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
